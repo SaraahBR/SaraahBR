@@ -97,14 +97,6 @@ Isso é apenas um resumo de 10% sobre tudo que conquistei, atingi e passei... Ca
 />
 <img 
     align="left" 
-    alt="Unity" 
-    title="Unity"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Visual Studio Code" 
     title="Visual Studio Code"
     width="30px" 
