@@ -1,3 +1,9 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=9E9E9E&width=435&lines=Bem+vindo+ao+meu+perfil!;Eu+sou+a+Sarah+%E2%99%A1" alt="Typing SVG" /></a>
+
+
+
+
+
 #  Sarah Hernandes
 
 **`Desenvolvedora de Software`**
