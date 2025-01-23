@@ -1,8 +1,5 @@
 
-![Animation Tech GIF by Butlerm](https://github.com/user-attachments/assets/f6311699-1da0-47db-8f31-a0c4ffc7b31e)
-
-
-
+![Animation Tech GIF by Butlerm](https://github.com/user-attachments/assets/46479f76-e194-411d-aea0-c1f84db3673a)
 
 
 
