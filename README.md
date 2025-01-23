@@ -3,7 +3,7 @@
 </a>
 
    # 👩🏻‍💻 Sarah Hernandes  
-   **`Desenvolvedora de Software`**  
+   `Desenvolvedora de Software` 
    <br><br>
 
 
@@ -16,7 +16,7 @@
    <br><br>
 </p>
 <p align="center">
-   🛡️ **Áreas de interesse e dedicação:**  
+   🛡️ Áreas de interesse e dedicação: 
    <br><br>  
    • Cybersegurança <br>
    • Perícia cibernética <br>
@@ -76,123 +76,79 @@
 </p>
 <br><br>
 <p align="center">
-### 🤖 Linguagens e Tecnologias
+🤖 Linguagens e Tecnologias
 </p>
 <p align="center">
 <img 
-    align="left" 
-    alt="HTML"
+    alt="HTML" 
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-    </p>
 />
-    <p align="center">
 <img 
-    align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-    </p>
-    <p align="center">
 <img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-    </p>
-    <p align="center">
 <img 
-    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-    </p>
-    <p align="center">
 <img 
-    align="left" 
     alt="React"
     title="React" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-    </p>
-    <p align="center">
 <img 
-    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-    </p>
-    <p align="center">
 <img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-    </p>
-    <p align="center">
 <img 
-    align="left" 
     alt="C++" 
     title="C++"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
-    </p>
-    <p align="center">
 <img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-    </p>
-    <p align="center">
 <img 
-    align="left" 
     alt="Unity" 
     title="Unity"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
 />
-    </p>
-    <p align="center">
 <img 
-    align="left" 
     alt="Visual Studio Code" 
     title="Visual Studio Code"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
 />
 </p>
