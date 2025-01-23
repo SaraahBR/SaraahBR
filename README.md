@@ -77,7 +77,8 @@
 <br><br>
 <p align="center">
 ### 🤖 Linguagens e Tecnologias
-
+</p>
+<p align="center">
 <img 
     align="left" 
     alt="HTML"
