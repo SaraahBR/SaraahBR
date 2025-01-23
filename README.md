@@ -15,13 +15,13 @@ ________________________
 <br>
 🛡️ Áreas de interesse e dedicação:
 <br><br>
-* Cybersegurança <br>
-* Perícia cibernética <br>
-* Desenvolvimento de aplicativos <br>
-* Desenvolvimento de sites <br>
-* Desenvolvimento de software <br>
-* Bioinformática <br>
-* Games <br>
+• Cybersegurança <br>
+• Perícia cibernética <br>
+• Desenvolvimento de aplicativos <br>
+• Desenvolvimento de sites <br>
+• Desenvolvimento de software <br>
+• Bioinformática <br>
+• Games <br>
 <br>
 _________________________
 <br>
