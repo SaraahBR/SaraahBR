@@ -15,35 +15,14 @@ ________________________
 <br>
 🛡️ Áreas de interesse e dedicação:
 <br><br>
-Cybersegurança <br>
-Perícia cibernética <br>
-Desenvolvimento de aplicativos <br>
-Desenvolvimento de sites <br>
-Desenvolvimento de software <br>
-Bioinformática <br>
-Games <br>
+* Cybersegurança <br>
+* Perícia cibernética <br>
+* Desenvolvimento de aplicativos <br>
+* Desenvolvimento de sites <br>
+* Desenvolvimento de software <br>
+* Bioinformática <br>
+* Games <br>
 <br>
-
-📚 Meu lema:
-"Do que preciso, eu corro atrás."
-
-Procuro vídeo-aulas e cursos para aprimoramento.
-Não permaneço em um único campo de estudo.
-<br><br>
-
-🎨 Criatividade e organização:
-
-Tenho ótimas ideias para criações, temas de projetos e sistemas.
-Sou organizada e não tenho medo de me aprofundar nas funções de cada sistema.
-<br><br>
-
-👩‍🏫 Liderança e conquistas:
-
-Durante meu período na UniFil, fui líder de turma/representante de classe de uma sala com cerca de 64 pessoas, indicada pelo coordenador.
-Na 8ª série, conquistei o 2º lugar na Olimpíada de Física Paranaense.
-Recebi diversas medalhas e um troféu, que guardo como lembrança das minhas conquistas.
- Eterno aprendizado e conquistas:
-Isso é apenas 10% do que conquistei e vivi.
 _________________________
 <br>
 📩 Caso tenha interesse em me contratar, me chame!
