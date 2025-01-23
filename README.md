@@ -5,7 +5,7 @@
 
 **`Desenvolvedora de Software`**
 
-<center>
+<p align="center">
 <br>
 
  💻 À procura do meu primeiro emprego/estágio!
@@ -51,7 +51,7 @@ Prometo responder o mais rápido possível.
 
 🙏 Grata, atenciosamente.
 </center>
-
+</p>
 
 <p align="left">
       <a href="https://www.instagram.com/saravihernandes/" target="_blank">
