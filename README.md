@@ -3,9 +3,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=20000&size=30&duration=3000&pause=500&color=9E9E9E&background=D87CE000&width=435&lines=++++++++++++Bem+vindo+ao+meu+perfil!;++++++++++++Eu+sou+a+Sarah+%E2%99%A1" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Macondo&size=25&duration=7000&pause=1000&color=CFF3F7&background=C6767E72&center=true&width=435&lines=Hello%2C+World+%E2%98%95%EF%B8%8E;Bem+Vindo+ao+meu+perfil!++%E2%99%A1;Eu+sou+a+Sarah%2C+prazer!+E+voc%C3%AA%3F+%F0%93%83%A0" alt="Typing SVG" /></a>
 </p>
 
    # 👩🏻‍💻 Sarah Hernandes  
