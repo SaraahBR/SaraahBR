@@ -1,37 +1,37 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=20000&size=30&duration=3000&pause=500&color=9E9E9E&background=D87CE000&width=435&lines=++++++++++++Bem+vindo+ao+meu+perfil!;++++++++++++Eu+sou+a+Sarah+%E2%99%A1" alt="Typing SVG" /></a>
-
-
-   #   👩🏻‍💻  Sarah Hernandes
-
-**`Desenvolvedora de Software`**
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=20000&size=30&duration=3000&pause=500&color=9E9E9E&background=D87CE000&width=435&lines=++++++++++++Bem+vindo+ao+meu+perfil!;++++++++++++Eu+sou+a+Sarah+%E2%99%A1" alt="Typing SVG" />
+</a>
 
 <p align="center">
-<br>
+   # 👩🏻‍💻 Sarah Hernandes  
+   **`Desenvolvedora de Software`**  
+   <br><br>
 
- 💻 À procura do meu primeiro emprego/estágio!
+   💻 À procura do meu primeiro emprego/estágio!  
+   <br>
+   Amo o universo da computação e quero trabalhar sempre com essa temática na minha vida.  
+   <br>  
+   ________________________  
+   <br><br>
 
- Amo o universo da computação e quero trabalhar sempre com essa temática na minha vida.
-________________________
-<br>
-🛡️ Áreas de interesse e dedicação:
-<br><br>
-• Cybersegurança <br>
-• Perícia cibernética <br>
-• Desenvolvimento de aplicativos <br>
-• Desenvolvimento de sites <br>
-• Desenvolvimento de software <br>
-• Bioinformática <br>
-• Games <br>
-<br>
-_________________________
-<br>
-📩 Caso tenha interesse em me contratar, me chame!
-Prometo responder o mais rápido possível.
+   🛡️ **Áreas de interesse e dedicação:**  
+   <br><br>  
+   • Cybersegurança <br>
+   • Perícia cibernética <br>
+   • Desenvolvimento de aplicativos <br>
+   • Desenvolvimento de sites <br>
+   • Desenvolvimento de software <br>
+   • Bioinformática <br>
+   • Games  
+   <br><br>  
+   _________________________  
+   <br><br>  
+   📩 Caso tenha interesse em me contratar, me chame!  
+   Prometo responder o mais rápido possível.  
+   <br><br>  
 
-🙏 Grata, atenciosamente.
-</center>
+   🙏 Grata, atenciosamente.  
 </p>
-
 <p align="left">
       <a href="https://www.instagram.com/saravihernandes/" target="_blank">
     <img 
