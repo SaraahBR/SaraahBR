@@ -1,7 +1,5 @@
 
-![Animation Tech GIF by Butlerm](https://github.com/user-attachments/assets/46479f76-e194-411d-aea0-c1f84db3673a)
-
-
+![programmingblond](https://github.com/user-attachments/assets/c43834b9-4280-46d9-9d90-9d3698e1b37c)
 
 
 <a href="https://git.io/typing-svg">
