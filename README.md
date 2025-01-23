@@ -1,6 +1,4 @@
 
-![ruiva](https://github.com/user-attachments/assets/8c8810ae-e70a-4551-b26a-608542857add)
-
 
 
 
