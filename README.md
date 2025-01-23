@@ -15,6 +15,7 @@
    ________________________  
    <br><br>
 
+<p align="center">
    🛡️ **Áreas de interesse e dedicação:**  
    <br><br>  
    • Cybersegurança <br>
@@ -26,7 +27,8 @@
    • Games  
    <br><br>  
    _________________________  
-   <br><br>  
+   <br><br>
+<p align="center">
    📩 Caso tenha interesse em me contratar, me chame!  
    Prometo responder o mais rápido possível.  
    <br><br>  
