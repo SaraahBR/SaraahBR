@@ -1,11 +1,96 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=20000&size=30&duration=3000&pause=500&color=9E9E9E&background=D87CE000&width=435&lines=++++++++++++Bem+vindo+ao+meu+perfil!;++++++++++++Eu+sou+a+Sarah+%E2%99%A1" alt="Typing SVG" /></a>
 
+
    #   👩🏻‍💻  Sarah Hernandes
 
 **`Desenvolvedora de Software`**
 
-Estou a procura do meu primeiro emprego/estágio, eu amo o universo da computação e quero trabalhar sempre com essa temática na minha vida. Tenho muito interesse e dedicação nas áreas de cybersegurança, perícia cybernetica, desenvolvimento de aplicativos, software, bioinformática e games. Do que preciso, eu corro atrás, procuro vídeo-aulas e cursos de aprimoramento, não permaneço apenas em um único campo de estudo. Sou dedicada, inteligente, competente e sempre apta para aprender e aprimorar. Tenho ótimas ideias nas criações e temas para projetos e sistemas, sou bem organizada na criação e não tenho medo de me arriscar para aprofundar as funções individuais em cada sistema. Durante o período que estive na UniFil, eu fui líder de turma/representante de classe de uma sala aproximada de 64 pessoas indicada pelo coordenador. No passado, quando estive na 8ª série do Ensino Fundamental, passei em 2º lugar na Olimpíada de Física Paranaense, em minha faculdade sou representante da minha turma, além das medalhas que recebia na escola, possuo minhas eternas conquistas guardadas em formas de medalhas e troféu, que guardo para sempre me lembrar de quem sou, antes de tudo, em meu coração principalmente.
-Isso é apenas um resumo de 10% sobre tudo que conquistei, atingi e passei... Caso tenha interesse em me contratar, me chame, prometo responder o mais rapido possivel! Grata, atenciosamente.
+<div style="line-height: 1.8; margin-bottom: 20px; text-align: center;">
+<br>
+
+ 💻 À procura do meu primeiro emprego/estágio!
+
+ Amo o universo da computação e quero trabalhar sempre com essa temática na minha vida.
+________________________
+<br>
+🛡️ Áreas de interesse e dedicação:
+<br><br>
+Cybersegurança <br>
+Perícia cibernética <br>
+Desenvolvimento de aplicativos <br>
+Desenvolvimento de sites <br>
+Desenvolvimento de software <br>
+Bioinformática <br>
+Games <br>
+<br>
+
+📚 Meu lema:
+"Do que preciso, eu corro atrás."
+
+Procuro vídeo-aulas e cursos para aprimoramento.
+Não permaneço em um único campo de estudo.
+<br><br>
+
+🎨 Criatividade e organização:
+
+Tenho ótimas ideias para criações, temas de projetos e sistemas.
+Sou organizada e não tenho medo de me aprofundar nas funções de cada sistema.
+<br><br>
+
+👩‍🏫 Liderança e conquistas:
+
+Durante meu período na UniFil, fui líder de turma/representante de classe de uma sala com cerca de 64 pessoas, indicada pelo coordenador.
+Na 8ª série, conquistei o 2º lugar na Olimpíada de Física Paranaense.
+Recebi diversas medalhas e um troféu, que guardo como lembrança das minhas conquistas.
+ Eterno aprendizado e conquistas:
+Isso é apenas 10% do que conquistei e vivi.
+_________________________
+<br>
+📩 Caso tenha interesse em me contratar, me chame!
+Prometo responder o mais rápido possível.
+
+🙏 Grata, atenciosamente.
+
+</div>
+
+<p align="left">
+      <a href="https://www.instagram.com/saravihernandes/" target="_blank">
+    <img 
+        alt="Instagram" 
+        title="Perfil no Instagram" 
+        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+</a>
+<a href="https://www.facebook.com/vihernandesBRLDR/" target="_blank">
+    <img 
+        alt="Facebook" 
+        title="Perfil no Facebook" 
+        src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    />
+</a>
+<a href="https://github.com/SaraahBR" target="_blank">
+    <img 
+        alt="GitHub" 
+        title="Perfil no GitHub" 
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+    />
+</a>
+<a href="mailto:vihernandesbr@gmail.com" target="_blank">
+    <img 
+        alt="Gmail" 
+        title="Enviar e-mail pelo Gmail" 
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+</a>
+<a href="https://steamcommunity.com/id/saraahvihernandesBR/" target="_blank">
+    <img 
+        alt="Steam" 
+        title="Perfil no Steam" 
+        src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
+    />
+</a>
+</p>
+<br><br>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -110,18 +195,3 @@ Isso é apenas um resumo de 10% sobre tudo que conquistei, atingi e passei... Ca
 <br/>
 <br/>
 
-
-<!--
-**SaraahBR/SaraahBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
