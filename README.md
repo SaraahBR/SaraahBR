@@ -86,7 +86,9 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    </p>
 />
+    <p align="center">
 <img 
     align="left" 
     alt="CSS" 
@@ -95,6 +97,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+    </p>
+    <p align="center">
 <img 
     align="left" 
     alt="JavaScript" 
@@ -103,6 +107,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+    </p>
+    <p align="center">
 <img 
     align="left" 
     alt="TypeScript"
@@ -111,6 +117,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+    </p>
+    <p align="center">
 <img 
     align="left" 
     alt="React"
@@ -119,6 +127,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+    </p>
+    <p align="center">
 <img 
     align="left" 
     alt="Next.js" 
@@ -127,6 +137,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
+    </p>
+    <p align="center">
 <img 
     align="left" 
     alt="PHP" 
@@ -135,6 +147,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+    </p>
+    <p align="center">
 <img 
     align="left" 
     alt="C++" 
@@ -143,6 +157,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
+    </p>
+    <p align="center">
 <img 
     align="left" 
     alt="Java" 
@@ -159,6 +175,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+    </p>
+    <p align="center">
 <img 
     align="left" 
     alt="Unity" 
@@ -167,6 +185,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
 />
+    </p>
+    <p align="center">
 <img 
     align="left" 
     alt="Visual Studio Code" 
