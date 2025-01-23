@@ -14,7 +14,7 @@
    <br>  
    ________________________  
    <br><br>
-
+</p>
 <p align="center">
    🛡️ **Áreas de interesse e dedicação:**  
    <br><br>  
@@ -28,14 +28,16 @@
    <br><br>  
    _________________________  
    <br><br>
+    </p>
 <p align="center">
    📩 Caso tenha interesse em me contratar, me chame!  
    Prometo responder o mais rápido possível.  
    <br><br>  
-
+  </p>
+<p align="center">
    🙏 Grata, atenciosamente.  
 </p>
-<p align="left">
+<p align="center">
       <a href="https://www.instagram.com/saravihernandes/" target="_blank">
     <img 
         alt="Instagram" 
@@ -73,7 +75,7 @@
 </a>
 </p>
 <br><br>
-
+<p align="center">
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -172,7 +174,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
 />
-
+</p>
 
 <br/>
 <br/>
