@@ -1,11 +1,12 @@
 
-![programming_resized_1024x500](https://github.com/user-attachments/assets/349cfb40-0f6d-4e85-bf6e-2ca4265aa6a8)
+![programming_resized_1024x350](https://github.com/user-attachments/assets/c7725bb1-864b-42df-b7f4-b72dae672998)
 
 
+<p align="center">
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=20000&size=30&duration=3000&pause=500&color=9E9E9E&background=D87CE000&width=435&lines=++++++++++++Bem+vindo+ao+meu+perfil!;++++++++++++Eu+sou+a+Sarah+%E2%99%A1" alt="Typing SVG" />
 </a>
-
+</p>
    # 👩🏻‍💻 Sarah Hernandes  
    `Desenvolvedora de Software` 
    <br><br>
