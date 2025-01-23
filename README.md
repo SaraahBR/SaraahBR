@@ -1,5 +1,5 @@
 
-![programmingblond](https://github.com/user-attachments/assets/c43834b9-4280-46d9-9d90-9d3698e1b37c)
+![programming_resized_1024x500](https://github.com/user-attachments/assets/349cfb40-0f6d-4e85-bf6e-2ca4265aa6a8)
 
 
 <a href="https://git.io/typing-svg">
