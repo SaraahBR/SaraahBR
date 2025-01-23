@@ -2,11 +2,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=20000&size=30&duration=3000&pause=500&color=9E9E9E&background=D87CE000&width=435&lines=++++++++++++Bem+vindo+ao+meu+perfil!;++++++++++++Eu+sou+a+Sarah+%E2%99%A1" alt="Typing SVG" />
 </a>
 
-<p align="center">
    # 👩🏻‍💻 Sarah Hernandes  
    **`Desenvolvedora de Software`**  
    <br><br>
 
+
+<p align="center">
    💻 À procura do meu primeiro emprego/estágio!  
    <br>
    Amo o universo da computação e quero trabalhar sempre com essa temática na minha vida.  
