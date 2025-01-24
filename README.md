@@ -79,7 +79,7 @@
 </a>
 </p>
 <br><br>
-<p align="center"><br><br>
+<p align="center">
 🤖 Linguagens e Tecnologias<br><br>
 </p>
 </p>
