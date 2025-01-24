@@ -80,7 +80,9 @@
 </p>
 <br><br>
 <p align="center">
-🤖 Linguagens e Tecnologias
+   
+### 🤖 Linguagens e Tecnologias
+
 </p>
 <p align="center">
 <img 
@@ -156,6 +158,22 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
 />
 </p>
+
+<p align="center">
+   
+### 📊 Estatísticas
+
+</p> align="center">
+
+<p>
+<img 
+      align="center" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraahBR&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+  />
+</p>
+
 
 <br/>
 <br/>
