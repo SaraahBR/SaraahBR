@@ -80,7 +80,6 @@
 </p>
 <br><br>
 <p align="center">
-   
 ### 🤖 Linguagens e Tecnologias
 </p>
 </p>
