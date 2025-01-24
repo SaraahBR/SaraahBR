@@ -82,7 +82,7 @@
 <p align="center">
    
 ### 🤖 Linguagens e Tecnologias
-</p> align="center">
+</p>
 </p>
 <p align="center">
 <img 
@@ -162,7 +162,7 @@
 <p align="center">
    
 ### 📊 Estatísticas
-</p> align="center">
+</p>
 
 <p>
 <img 
