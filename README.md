@@ -79,8 +79,8 @@
 </a>
 </p>
 <br><br>
-<p align="center"><br><br><br><br>
-🤖 Linguagens e Tecnologias<br><br><br><br>
+<p align="center"><br><br>
+🤖 Linguagens e Tecnologias<br><br>
 </p>
 </p>
 <p align="center">
@@ -158,17 +158,19 @@
 />
 </p>
 
-<p align="center"><br><br><br><br>
-📊 Estatísticas<br><br><br><br>
+<p align="center"><br><br>
+📊 Estatísticas<br><br>
 </p>
 
 <p>
+<p align="center">
 <img 
       align="center" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraahBR&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
+</p>
 </p>
 
 
