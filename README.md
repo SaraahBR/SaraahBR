@@ -79,8 +79,8 @@
 </a>
 </p>
 <br><br>
-<p align="center">
-### 🤖 Linguagens e Tecnologias
+<p align="center"><br><br><br><br>
+🤖 Linguagens e Tecnologias<br><br><br><br>
 </p>
 </p>
 <p align="center">
@@ -158,9 +158,8 @@
 />
 </p>
 
-<p align="center">
-   
-### 📊 Estatísticas
+<p align="center"><br><br><br><br>
+📊 Estatísticas<br><br><br><br>
 </p>
 
 <p>
